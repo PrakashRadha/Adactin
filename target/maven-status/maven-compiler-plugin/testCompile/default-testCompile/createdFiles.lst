@@ -1,0 +1,11 @@
+com\tests\LoginTest.class
+com\tests\MyReport.class
+com\tests\DataProviderDemo.class
+com\tests\AnnotationsDemo.class
+com\tests\AssertionsDemo.class
+com\tests\TestBase.class
+com\tests\CrossBrowserTesting.class
+com\tests\GroupsDemo.class
+com\tests\MyRetry.class
+com\tests\MyTestListener.class
+com\tests\ParameterizedTest.class

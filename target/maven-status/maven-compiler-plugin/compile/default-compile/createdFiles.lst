@@ -1,0 +1,4 @@
+Utilities\BaseClass.class
+Utilities\ConfigReader.class
+PageActions\LoginPageActions.class
+PageObjects\LoginPage.class
