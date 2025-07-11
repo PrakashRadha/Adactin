@@ -12,7 +12,7 @@ public class LoginTest extends TestBase{
 	
 	@Test
 	public void login() throws IOException {
-		
+		driver.get("https://adactinhotelapp.com/");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 	
 		LoginPageActions lpa = LoginPageActions.getLoginPageActions(driver);

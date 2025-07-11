@@ -10,6 +10,7 @@
 			<class name="com.tests.AssertionsDemo"></class>
 			<class name="com.tests.AnnotationsDemo"></class>
 			<class name="com.tests.LoginTest"></class>
+			<class name="com.tests.ActionsDemoInTestNG"></class>
 		</classes>
 	</test>
 </suite> <!--
